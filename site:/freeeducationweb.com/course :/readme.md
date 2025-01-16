@@ -1,0 +1,6 @@
+- https://freeeducationweb.com/thick-client-pentest-modern-approaches-2024complete-guide/
+- https://freeeducationweb.com/applied-purple-teaming-w-kent-ickler-and-jordan-drysdale/
+- https://freeeducationweb.com/android-mobile-app-pentesting/
+- https://freeeducationweb.com/bug-bounty-web-application-penetration-testing-bootcamp/
+- https://freeeducationweb.com/bug-bounty-hacking-webapps-from-scratch/
+- https://freeeducationweb.com/advanced-windows-persistence/
